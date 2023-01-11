@@ -1,3 +1,3 @@
 ### Hi there
 
-I know Java, CSS, HTML, JS, Node.JS, Rust, MySQL, SQL, Python, C and C++
+I know Java, CSS, HTML, JS, Node.JS, Rust, MySQL, SQL, Python, C, C++ and Ruby
