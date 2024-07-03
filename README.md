@@ -1,2 +1,3 @@
-I know **Java**, CSS, **HTML**, **JS**, **Node.JS**, MySQL, SQL, **Python**, **Go**, C, C++, Ruby, lua, luc, bluc, jbluc, **Vue.js**, **Tailwind CSS**, **TS**, **SCSS**, **Svelte** and **Astro**.
-Bold tools mean that I use it a lot or that I am good at it.
+Hi I am aixoio,
+
+I love programming, I am a full-stack devloper. My current go-to stack is Go, Echo, GORM, PostgreSQL, Redis for the backend and Vue.js, TypeScript, TailwindCSS and Vite for frontend.
